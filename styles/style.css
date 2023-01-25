@@ -172,6 +172,15 @@ hr {
   color: #ff4a60;
   font-size: 15px;
 }
+.course {
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+}
+.course:hover {
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+}
 /*-----------------------
        Media Queries
  ---------------------- */
